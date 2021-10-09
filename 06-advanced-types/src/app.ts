@@ -158,7 +158,7 @@ const data = {
     title: "Software Engineer",
   },
 };
-
+// asdasdsadsa
 console.log(data?.job?.title);
 console.log("-------------------------------------------------");
 // end of Optional Chaining
